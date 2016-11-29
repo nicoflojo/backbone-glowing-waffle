@@ -1,0 +1,29 @@
+{
+  "name": "backboneglowingwaffle",
+  "version": "1.0.0",
+  "description": "backboneproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoflojo/backbone-glowing-waffle.git"
+  },
+  "keywords": [
+    "backbone",
+    "browserify",
+    "grunt",
+    "jquery"
+  ],
+  "author": "nicoFLojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoflojo/backbone-glowing-waffle/issues"
+  },
+  "homepage": "https://github.com/nicoflojo/backbone-glowing-waffle#readme",
+  "devDependencies": {
+    "backbone": "^1.3.3",
+    "jquery": "^3.1.1"
+  }
+}
